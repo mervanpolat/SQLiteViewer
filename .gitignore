@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/SQLite Viewer/task/build/
+/SQLite Viewer/task/build/classes/java/main/
+/SQLite Viewer/task/build/classes/java/test/
